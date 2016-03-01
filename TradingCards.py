@@ -193,7 +193,7 @@ def createTheme():
 
 def editTheme():
     themeList = listdir('themes')
-    editThemeName = inpConf('{0}\nInput the name of the theme you are editing: '.format(themeList))c cv
+    editThemeName = inpConf('{0}\nInput the name of the theme you are editing: '.format(themeList))
 
 def createPack():
     baseTheme = 'Basic'
