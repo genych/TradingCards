@@ -49,3 +49,5 @@ Temporary Items
 # Python junk
 __pycache__
 *.pyc
+# static images
+images/
